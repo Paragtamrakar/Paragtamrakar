@@ -1,16 +1,25 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Paragtamrakar/Paragtamrakar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Piyush Tamrakar
 
-Here are some ideas to get you started:
+### Full Stack Developer · SaaS Builder · Founder @ The OG Developers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Building software products from Beohari, Madhya Pradesh 🇮🇳*
+
+</div>
+
+---
+
+## The Story
+
+> From a Zoology classroom to building SaaS products used by real businesses.
+
+No computer science degree.
+No startup ecosystem.
+No local tech community.
+
+Just curiosity, consistency, and an obsession with building the person I'm capable of becoming.
+
+I'm a self-taught Full Stack Developer and the founder of **The OG Developers** — a software company I built from scratch in a small town where no one around me was doing this.
+
+What started as curiosity turned into real products, real users, and real businesses running on software I built.
