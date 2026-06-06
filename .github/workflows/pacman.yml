@@ -1,0 +1,56 @@
+# .github/workflows/pacman.yml
+# Generates an animated Pac-Man contribution graph SVG (light + dark)
+# and publishes it to the `output` branch for use in a profile README.
+
+name: Generate Pacman Contribution Graph
+
+on:
+  schedule:
+    # Runs once per day at midnight UTC — no need for every 12 hours,
+    # contribution graphs update at most once per day.
+    - cron: "0 0 * * *"
+
+  # Allows manual re-generation from the Actions tab (useful for testing).
+  workflow_dispatch:
+
+jobs:
+  generate:
+    name: Generate & Deploy SVGs
+    runs-on: ubuntu-latest
+
+    # Required: allows the job to push the SVGs to the output branch.
+    permissions:
+      contents: write
+
+    # Prevent runaway jobs from blocking the runner queue.
+    timeout-minutes: 10
+
+    steps:
+      # ── Step 1: Generate SVGs ─────────────────────────────────────────────
+      # Uses the official Pac-Man action. It reads your contribution graph
+      # via the GitHub API and writes two SVGs to ./dist/:
+      #   • pacman-contribution-graph.svg        (light theme)
+      #   • pacman-contribution-graph-dark.svg   (dark theme)
+      #
+      # github.repository_owner is used instead of a hard-coded username so
+      # this workflow is portable — fork it and it just works.
+      - name: Generate Pac-Man SVGs
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      # ── Step 2: Push SVGs to the output branch ────────────────────────────
+      # crazy-max/ghaction-github-pages force-pushes the build_dir contents
+      # to the target branch, creating it automatically if it doesn't exist.
+      # v5.0.0 is the latest stable release (Node 24 runtime, June 2026).
+      - name: Push SVGs to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+        with:
+          target_branch: output   # Branch that stores the generated SVGs
+          build_dir: dist         # Directory the Pac-Man action writes into
+          # A custom commit message makes the output branch history readable.
+          commit_message: "chore: update Pac-Man contribution graph [skip ci]"
+          # jekyll: false prevents GitHub Pages from trying to process SVGs.
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
