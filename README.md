@@ -76,7 +76,7 @@ A software company focused on building practical, no-nonsense products for real-
 🌐 **Live:** https://www.ogeats.in
 
 <p align="center">
-  <img src="./assets/og-eats-homepage.png" width="90%" alt="OG Eats Homepage" />
+  <img src="./assets/ogeats screenshot.jpg" width="90%" alt="OG Eats Homepage" />
 </p>
 
 ---
