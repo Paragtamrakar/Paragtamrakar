@@ -57,7 +57,7 @@ A software company focused on building practical, no-nonsense products for real-
 🌐 **Live:** https://og-pms.vercel.app
 
 <p align="center">
-  <img src="./assets/og-pms-dashboard.png" width="90%" alt="OG PMS Dashboard" />
+  <img src="./assets/og-pms-dashboard.jpg" width="90%" alt="OG PMS Dashboard" />
 </p>
 
 ---
