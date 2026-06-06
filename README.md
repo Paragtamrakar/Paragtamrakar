@@ -1,176 +1,52 @@
+<h1 align="center">Hey 👋What's Up?</h1>
+
+###
+
 <div align="center">
-
-# Piyush Tamrakar
-
-### Full Stack Developer · SaaS Builder · Founder @ The OG Developers
-
-*Building software products from Beohari, Madhya Pradesh 🇮🇳*
-
+  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
 </div>
 
----
-
-## The Story
-
-> From a Zoology classroom to building SaaS products used by real businesses.
-
-No computer science degree.
-No startup ecosystem.
-No local tech community.
-
-Just curiosity, consistency, and an obsession with building the person I'm capable of becoming.
-
-I'm a self-taught Full Stack Developer and the founder of **The OG Developers** — a software company I built from scratch in a small town where no one around me was doing this.
-
-What started as curiosity turned into real products, real users, and real businesses running on software I built.
-
----
-
-## The OG Developers
-
-A software company focused on building practical, no-nonsense products for real-world businesses.
-
-&nbsp;&nbsp;&nbsp;&nbsp;**Products shipped:** 2 &nbsp;|&nbsp; **Active users:** 600+ &nbsp;|&nbsp; **Location:** Beohari, MP
-
----
-
-## Featured Products
-
-### 🏨 OG PMS — Hotel Management SaaS
-
-> A modern, end-to-end hotel management platform built for real hotel operators.
-
-| Feature | |
-|---|---|
-| Room & Guest Management | ✓ |
-| WhatsApp Automation | ✓ |
-| Billing & Accounting | ✓ |
-| Analytics & Reporting | ✓ |
-| Anti-Fraud Workflows | ✓ |
-
-🌐 **Live:** [og-pms.vercel.app](https://og-pms.vercel.app)
-
-<!-- Drop your OG PMS screenshot below -->
-<p align="center">
-  <img src="./assets/og-pms-dashboard.png" width="90%" alt="OG PMS Dashboard" />
-</p>
-
----
-
-### 🍔 OG Eats — Food Ordering Platform
-
-> A full-stack food ordering platform with 600+ active users.
-
-| Feature | |
-|---|---|
-| Online Ordering | ✓ |
-| Restaurant Onboarding | ✓ |
-| Order & Delivery Management | ✓ |
-| Customer-Focused UI | ✓ |
-
-🌐 **Live:** [ogeats.in](https://www.ogeats.in)
-
-<!-- Drop your OG Eats screenshot below -->
-<p align="center">
-  <img src="./assets/og-eats-homepage.png" width="90%" alt="OG Eats Homepage" />
-</p>
-
----
-
-## Tech Stack
+###
 
 <div align="center">
-
-**Frontend**
-<br>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
-
-<br>
-
-**Backend**
-<br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
-
-<br>
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,vscode" />
-
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
-
-## Philosophy
-
-> Useful beats fancy.
-> Adoption beats admiration.
-
-I don't build projects to impress developers.
-I build products people actually use.
-
----
-
-## Timeline
-
-```
-2025  →  Started learning web development
-2025  →  Shipped first production-ready applications
-2025  →  Launched OG Eats
-2026  →  Built and launched OG PMS
-Now   →  Building through The OG Developers
-Next  →  Scalable SaaS products from small-town India
-```
-
----
-
-## GitHub Stats
+###
 
 <div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Paragtamrakar&show_icons=true&theme=transparent&hide_border=true" />
-&nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paragtamrakar&layout=compact&theme=transparent&hide_border=true" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Paragtamrakar&theme=transparent&hide_border=true" />
-
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
 </div>
 
----
+###
 
-## Connect
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg">
+</picture>
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/parag-tamrakar">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Paragtamrakar">
-  <img src="https://skillicons.dev/icons?i=github" />
-</a>
-
-</div>
-
-<br>
-
-| | |
-|---|---|
-| 💼 LinkedIn | [parag-tamrakar](https://www.linkedin.com/in/parag-tamrakar) |
-| 💻 GitHub | [Paragtamrakar](https://github.com/Paragtamrakar) |
-| 🌐 Portfolio | Coming Soon |
-| 📧 Email | tamrakarpiyush219@gmail.com |
-
----
-
-<div align="center">
-
-*Built from a small town. Tested in the real world.*
-
-</div>
-<div align="center">
-
-
-What started as curiosity turned into real products, real users, and real businesses running on software I built.
+###
