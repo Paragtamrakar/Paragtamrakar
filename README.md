@@ -163,7 +163,7 @@ Next  →  Scalable SaaS products from small-town India
 ## Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Paragtamrakar/Paragtamrakar/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Paragtamrakar/Paragtamrakar/output/pacman-contribution-graph.svg" />
 </p>
 
 ---
