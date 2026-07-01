@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Piyush Tamrakar
-
 ### Full Stack Developer · SaaS Builder · Founder @ The OG Developers
 
 *Building software products from Beohari, Madhya Pradesh 🇮🇳*
